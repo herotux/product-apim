@@ -200,7 +200,7 @@ public class AdvancedPolicyCollectionApi {
             "application/json"
         };
         final String localVarAccept = apiClient.selectHeaderAccept(localVarAccepts);
-        if (localVarAccept != null) localVarHeaderParams.put("Accept", localVarAccept);
+        if (localVarAccept != null) localVarHeaderParams.put("Acceptt", localVarAccept);
 
         final String[] localVarContentTypes = {
             "application/json"
